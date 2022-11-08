@@ -107,6 +107,3 @@ INSERT INTO `tr_penjualan_dqlab` VALUES
 
 -- Menggunakan perintah UNLOCK
 UNLOCK TABLES;
-
-
-
