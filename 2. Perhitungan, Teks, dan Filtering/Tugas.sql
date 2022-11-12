@@ -135,21 +135,3 @@ select tgl_transaksi as "Tanggal transaksi",
 nama_produk as "Nama Produk",
 qty as "Kuantitas"
 from tr_penjualan_dqlab;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
