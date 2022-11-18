@@ -16,5 +16,6 @@
 | Pertemuan 3  | Mengurutkan dan Mengelompokkan Data |
 | Pertemuan 4  | Menggabungkan Data dengan JOIN dan UNION |
 | Pertemuan 5  | Pematangan Materi - SQL |
+| Pertemuan 6  | Perkenalan Python |
 
 ***(Darman Saputra Saragih)***
