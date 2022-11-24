@@ -17,5 +17,6 @@
 | Pertemuan 4  | Menggabungkan Data dengan JOIN dan UNION |
 | Pertemuan 5  | Pematangan Materi - SQL |
 | Pertemuan 6  | Perkenalan Python |
+| Pertemuan 7  | Struktur dan List Data |
 
 ***(Darman Saputra Saragih)***
